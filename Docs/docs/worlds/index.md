@@ -1,5 +1,5 @@
 ---
-title: "Worlds"
+title: "good time with friends"
 hidden: false
 sidebar_position: 0
 createdAt: "2017-09-10T16:25:55.819Z"
